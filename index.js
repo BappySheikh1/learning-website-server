@@ -15,6 +15,18 @@ app.get('/tutorial',(req,res)=>{
     res.send(categoryData)
 })
 
+app.get('/category/:id',(req,res)=>{
+    const id =req.params.id
+    const categoryData=tutorialData.filter(td => td.category_id === id)
+    res.send(categoryData)
+})
+
+app.get('/tutorial/:id',(req,res)=>{
+    const id =parseInt(req.params.id)
+    const tutorialId=tutorialData.find(td => td.id === id)
+    res.send(tutorialId)
+})
+
 app.get('/turorial/All',(req,res)=>{
     res.send(tutorialData)
 })

@@ -1,6 +1,12 @@
 [
     {
         "id":1,
+        "author":
+        {
+            "img":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRumgxIDk62vJ23kld5EnD1ooVOpNhyZRIzTUl3ZMd8YlqwGHxGVAT4ALWNjqXWoE1j",
+            "name":"Timothy John Berners-Lee",
+            "date_birth":"June 8, 1955"
+        },
         "title":"HTML Tutorial for Bigginer","price":109.95,
         "category_id": "06",
 
@@ -16,6 +22,12 @@
 
 {
     "id":2,
+    "author":
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
+        "name":"Brendan Eich",
+        "date_birth":"July 4, 1961"
+    },
     "title":"JavaScript Tutorial Article For Bigginer",
     "price":22.3,
     "category_id": "03",
@@ -32,6 +44,12 @@
 
 {
     "id":3,
+    "author":
+    {
+        "img":"https://reactjs.org/static/1e34460fee229cb3a8f4726957e38c2c/2233a/acdlite.jpg",
+        "name":" Jordan Walke"
+        
+    },
     "title":"React js Article For Bigginer",
     "price":55.99,
     "category_id": "05",
@@ -43,6 +61,12 @@
 
 {
     "id":4,
+    "author":
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/170px-H%C3%A5kon_Wium_Lie.jpg",
+        "name":"Håkon Wium Lie",
+        "date_birth":"July 26, 1965"
+    },
     "title":"CSS Article For Bigginer",
     "price":15.99,
     "category_id": "04",

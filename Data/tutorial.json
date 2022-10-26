@@ -1,43 +1,54 @@
 [
     {
         "id":1,
-        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops","price":109.95,
+        "title":"HTML Tutorial for Bigginer","price":109.95,
         "category_id": "06",
-        "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+
+        "description":"HTML was first created by Tim Berners-Lee, Robert Cailliau, and others starting in 1989. It stands for Hyper Text Markup Language Okay, so this is the only bit of mandatory theory. In order to begin to write HTML, it helps if you know what you are writing.HTML is the language in which most websites are written. HTML is used to create pages and make them functional.The code used to make them visually appealing is known as CSS and we shall focus on this in a later tutorial. For now, we will focus on teaching you how to build rather than design.Tags are used to mark up the start of an HTML element and they are usually enclosed in angle brackets. An example of a tag is: <h1>. Most tags must be opened <h1> and closed </h1> in order to function.",
+
         "category":"men's clothing",
-        "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg","rating":{"rate":3.9,"count":120}
+        "image":"https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "rating":
+        {
+            "rate":3.9,"count":120
+        }
 },
 
 {
     "id":2,
-    "title":"Mens Casual Premium Slim Fit T-Shirts ",
+    "title":"JavaScript Tutorial Article For Bigginer",
     "price":22.3,
     "category_id": "03",
-    "description":"Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+
+    "description":"JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible.JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich.JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort. These includeBrowser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications",
+
     "category":"men's clothing",
-    "image":"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-    "rating":{"rate":4.1,"count":259}
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+    "rating":
+    {
+        "rate":4.1,"count":259
+    }
 },
 
 {
     "id":3,
-    "title":"Mens Cotton Jacket",
+    "title":"React js Article For Bigginer",
     "price":55.99,
     "category_id": "05",
-    "description":"great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "description":"What Is React? React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components React has a few different kinds of components, but we’ll start with React.Component subclasses We’ll get to the funny XML-like tags soon. We use components to tell React what we want to see on the screen. When our data changes, React will efficiently update and re-render our components.Here, ShoppingList is a React component class, or React component type. A component takes in parameters, called props (short for “properties”), and returns a hierarchy of views to display via the render method.The render method returns a description of what you want to see on the screen. React takes the description and displays the result. In particular, render returns a React element, which is a lightweight description of what to render. Most React developers use a special syntax called “JSX” which makes these structures easier to write. The <div /> syntax is transformed at build time to React.createElement('div'). The example above is equivalent",
     "category":"men's clothing",
-    "image":"https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg","rating":{"rate":4.7,"count":500}
+    "image":"https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg","rating":{"rate":4.7,"count":500}
 
 },
 
 {
     "id":4,
-    "title":"Mens Casual Slim Fit",
+    "title":"CSS Article For Bigginer",
     "price":15.99,
     "category_id": "04",
-    "description":"The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "description":"Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.CSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications. Previously, the development of various parts of CSS specification was done synchronously, which allowed the versioning of the latest recommendations. You might have heard about CSS1, CSS2.1, or even CSS3. There will never be a CSS3 or a CSS4; rather, everything is now CSS without a version number.After CSS 2.1, the scope of the specification increased significantly and the progress on different CSS modules started to differ so much, that it became more effective to develop and release recommendations separately per module. Instead of versioning the CSS specification, W3C now periodically takes a snapshot of the latest stable state of the CSS specification and individual modules progress. CSS modules now have version numbers, or levels, such as CSS Color Module Level 5",
     "category":"men's clothing",
-    "image":"https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg","rating":{"rate":2.1,"count":430}
+    "image":"https://cdn-icons-png.flaticon.com/512/5968/5968242.png","rating":{"rate":2.1,"count":430}
 },
 
 {
@@ -45,9 +56,13 @@
     "title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
     "price":695,
     "category_id": "01",
-    "description":"From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.","category":"jewelery",
+    "description":"Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the internet. A web browser is used to access web pages. Web browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet.",
+    "category":"jewelery",
     "image":"https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-    "rating":{"rate":4.6,"count":400}
+    "rating":
+    {
+        "rate":4.6,"count":400
+    }
 },
 
 {

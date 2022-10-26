@@ -4,7 +4,7 @@
         "author":
         {
             "img":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRumgxIDk62vJ23kld5EnD1ooVOpNhyZRIzTUl3ZMd8YlqwGHxGVAT4ALWNjqXWoE1j",
-            "name":"Timothy John Berners-Lee",
+            "name":"Timothy John ",
             "date_birth":"June 8, 1955"
         },
         "title":"HTML Tutorial for Bigginer","price":109.95,
@@ -77,12 +77,18 @@
 
 {
     "id":5,
-    "title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "author":
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uTVhK6yyM159IzcTkC4L8iIUrDIgJoZTTod0Nl9o&s",
+        "name":"Matt Mullenweg",
+        "date_birth":"January 11, 1984"
+    },
+    "title":"WordPress Theme Development",
     "price":695,
     "category_id": "01",
-    "description":"Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the internet. A web browser is used to access web pages. Web browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet.",
+    "description":"This article is about developing WordPress Themes. If you wish to learn more about how to install and use Themes, review Using Themes. This topic differs from Using Themes because it discusses the technical aspects of writing code to build your own Themes rather than how to activate Themes or where to obtain new Themes.WordPress Themes are files that work together to create the design and functionality of a WordPress site. Each Theme may be different, offering many choices for site owners to instantly change their website look.You may wish to develop WordPress Themes for your own use, for a client project or to submit to the WordPress Theme Directory. Why else should you build a WordPress Theme?",
     "category":"jewelery",
-    "image":"https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "image":"https://img.freepik.com/free-psd/american-food-website-app-template_23-2148477329.jpg?w=740&t=st=1666793939~exp=1666794539~hmac=8fdbf2c67b8ea2272603c18e821c5ce60abcae477d39da64f37d5912f1dd7f01",
     "rating":
     {
         "rate":4.6,"count":400
@@ -91,11 +97,19 @@
 
 {
     "id":6,
-    "title":"Solid Gold Petite Micropave ",
+    "author":
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
+        "name":"Brendan Eich",
+        "date_birth":"July 4, 1961"
+    },
+    "title":"Full Stack Developing Article ",
     "price":168,
     "category_id": "02",
-    "description":"Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.","category":"jewelery",
-    "image":"https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg","rating":{"rate":3.9,"count":70}
+    "description":"A Full Stack Developer is someone who works with the Back End — or server side — of the application as well as the Front End, or client side. Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design and UI/UX management in order to do their job well.Front end Development (Client side) Everything on a web page from the logo, to the search bar, buttons, overall layout and how the user interacts with the page was created by a front end developer. Front end developers are in charge of the look and feel of the website.Front end developers also have to make sure the website looks good on all devices (phones, tablets, and computer screens). This is called Responsive Web Design.",
+    "category":"jewelery",
+    "image":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+    "rating":{"rate":3.9,"count":70}
 }
 
 ]

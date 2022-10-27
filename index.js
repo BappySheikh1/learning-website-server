@@ -17,7 +17,7 @@ app.get('/tutorial',(req,res)=>{
 
 app.get('/category/:id',(req,res)=>{
     const id =req.params.id
-    const categoryData=tutorialData.filter(td => td.category_id === id)
+    const categoryData=tutorialData.filter(td => td.category_id == id)
     res.send(categoryData)
 })
 
